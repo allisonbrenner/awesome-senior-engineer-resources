@@ -39,7 +39,7 @@ An ever growing list of the articles, videos, and sites I have used (or intend t
 * [Design a LRU Cache](https://www.geeksforgeeks.org/lru-cache-implementation/)
 * [Design a Rate-Limiting Algorithm](https://konghq.com/blog/how-to-design-a-scalable-rate-limiting-algorithm/)
 
-##Languages and Programming Styles
+## Languages and Programming Styles
 
 * [S is for Single Responsibility](https://codeburst.io/understanding-solid-principles-single-responsibility-b7c7ec0bf80)
 * [O is for Open Closed Principle](https://codeburst.io/understanding-solid-principles-open-closed-principle-e2b588b6491f)
